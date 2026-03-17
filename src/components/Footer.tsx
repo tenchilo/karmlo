@@ -1,5 +1,6 @@
 import logo from "@/assets/KARM_logo.png";
 
+
 const Footer = () => {
   return (
     <footer className="border-t border-border py-12 bg-background">
