@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
         <div className="flex items-center justify-between h-20">
           <a href="#" className="font-display text-xl tracking-wide text-foreground">
-            Catalyst<span className="text-primary">.</span>Advisory
+            Karmlo<span className="text-primary">.</span>Ventures
           </a>
 
           {/* Desktop */}
