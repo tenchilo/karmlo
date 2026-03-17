@@ -6,9 +6,9 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const links = [
-    { label: "Philosophy", href: "#philosophy" },
-    { label: "Expertise", href: "#expertise" },
-    { label: "Track Record", href: "#track-record" },
+    { label: "Philosophy", href: "/#philosophy" },
+    { label: "Expertise", href: "/#expertise" },
+    { label: "Track Record", href: "/#track-record" },
     { label: "Contact", href: "/contact" },
   ];
 
