@@ -3,7 +3,7 @@ import patternImage from "@/assets/pattern-network.jpg";
 const highlights = [
   {
     metric: "President",
-    context: "Served as President of Pason Power, a subsidiary of Pason Systems (PSI:TSX), leading the venture from inception through full operational buildout.",
+    context: "Served as President of a clean energy subsidiary within a publicly traded technology company, leading the venture from inception through full operational buildout.",
   },
   {
     metric: "VP & COO",
