@@ -15,7 +15,7 @@ const ContactSection = () => {
             structured intrapreneurship program, we'd welcome the conversation.
           </p>
           <a
-            href="mailto:hello@catalystadvisory.com"
+            href="/contact"
             className="inline-block font-body text-sm tracking-[0.2em] uppercase bg-primary text-primary-foreground px-10 py-4 hover:bg-gold-light transition-all duration-300"
           >
             Get in Touch
