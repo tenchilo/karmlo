@@ -5,7 +5,7 @@ const expertiseAreas = [
     number: "01",
     title: "Internal Venture Creation",
     description:
-      "We help identify and validate new business opportunities hiding inside your existing operations, then build the team and structure to launch them.",
+      "We help identify and validate new business opportunities hiding inside your existing operations, then build the team and structure to launch them. Our founder served as President of Pason Power, a venture created within Pason Systems (PSI:TSX).",
   },
   {
     number: "02",
