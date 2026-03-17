@@ -8,7 +8,7 @@ const Navbar = () => {
     { label: "Philosophy", href: "#philosophy" },
     { label: "Expertise", href: "#expertise" },
     { label: "Track Record", href: "#track-record" },
-    { label: "Contact", href: "#contact" },
+    { label: "Contact", href: "/contact" },
   ];
 
   return (
