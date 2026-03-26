@@ -11,7 +11,7 @@ const expertiseAreas = [
     number: "02",
     title: "Corporate-to-Platform Transformation",
     description:
-      "Incubate legacy business models into digital platforms and marketplaces. We've done it in workforce travel, energy services, and environmental consulting.",
+      "Incubate legacy business models into digital platforms and marketplaces. We've done it in workforce travel, energy services, clean tech, and environmental consulting.",
   },
   {
     number: "03",
