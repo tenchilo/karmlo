@@ -37,7 +37,7 @@ const TrackRecordSection = () => {
               <span className="italic text-gradient-gold">inside out.</span>
             </h2>
             <p className="font-body text-lg text-cream-muted leading-relaxed mb-10">
-              Our founder didn't study intrapreneurship in a classroom. They
+              Our team didn't study intrapreneurship in a classroom. They
               lived it — building a digital marketplace platform inside a
               traditional industrial company, growing it from concept to a fully
               operational business unit serving thousands of clients.
