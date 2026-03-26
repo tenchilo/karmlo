@@ -15,7 +15,7 @@ const highlights = [
   },
   {
     metric: "Venture Advisor",
-    context: "Advises early-stage ventures in biotech, AI, and diagnostics — bridging the gap between startup agility and corporate resources.",
+    context: "Advised startups through the scale-up process — bridging the gap between startup agility and corporate resources.",
   },
   {
     metric: "Cross-Industry",
