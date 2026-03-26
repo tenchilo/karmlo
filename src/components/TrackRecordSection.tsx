@@ -21,6 +21,10 @@ const highlights = [
     metric: "Cross-Industry",
     context: "Deep operational experience spanning renewable energy storage, workforce travel technology, finance, oil & gas, and capital markets.",
   },
+  {
+    metric: "M&A & Exits",
+    context: "Achieved successful exits including a SaaS company, with hands-on experience acquiring companies and divesting non-core subsidiaries to sharpen strategic focus.",
+  },
 ];
 
 const TrackRecordSection = () => {
