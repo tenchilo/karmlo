@@ -11,7 +11,7 @@ const highlights = [
   },
   {
     metric: "Board Member",
-    context: "Serves on the board of an established environmental consulting firm, guiding strategic growth and diversification.",
+    context: "Served on the boards of an established environmental consulting firm and a large SaaS gas monitoring company, guiding strategic growth and diversification.",
   },
   {
     metric: "Venture Advisor",
