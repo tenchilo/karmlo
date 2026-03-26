@@ -43,6 +43,12 @@ const services = [
     description:
       "Prepare compelling investor materials, refine capital strategy, and build relationships that unlock funding.",
   },
+  {
+    icon: Users,
+    title: "Intrapreneurial Compensation Design",
+    description:
+      "Design compensation and incentive plans for startup teams incubated within larger companies — aligning entrepreneurial drive with corporate structure.",
+  },
 ];
 
 const ServicesSection = () => {
